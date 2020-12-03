@@ -2,8 +2,14 @@
 
 ## Day 1 (2020-12-06) 
 
+* [4 - 5](../01_String/test/test01/README.md)
+* [4](../01_String/test/test02/README.md)
+* [4](../01_String/test/test03/README.md)
+
 ### codeup
-* [1001 ~ 1003](https://codeup.kr/problemsetsol.php?psid=9)
+
+* [1132](https://codeup.kr/problem.php?id=1132)
+* [1418](https://codeup.kr/problem.php?id=1418)
 
 
 
