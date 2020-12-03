@@ -119,7 +119,7 @@ printf("%s\n", string3);
 > string.h 의 다른 함수까지 확인 하려면 [링크](http://www.cplusplus.com/reference/cstring/)  참조
 > 추후에 **pointer** 라는 개념을 익히면 더 많은 함수를 사용 할수 있게 된다.
 
-* stlib.h 에 포함되어 있어서 사용하기 위해서는 `#include<string.h>` 를 포함해 주어야 한다.
+* stdlib.h 에 포함되어 있어서 사용하기 위해서는 `#include<stdlib.h>` 를 포함해 주어야 한다.
 
 | 함수 원형                          | 기능 |
 |---------------------------------------------------------|--------------|
