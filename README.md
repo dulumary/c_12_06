@@ -50,4 +50,4 @@
 
 ## 10. 편의점 포스
 
-### [강의 자료](09_File/README.md) 
+### [강의 자료](10_CSVPOS/README.md) 
