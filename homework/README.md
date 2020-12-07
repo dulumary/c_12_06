@@ -3,8 +3,6 @@
 ## Day 1 (2020-12-06) 
 
 * [4 - 5](../01_String/test/test01/README.md)
-* [4](../01_String/test/test02/README.md)
-* [4](../01_String/test/test03/README.md)
 
 ### codeup
 
