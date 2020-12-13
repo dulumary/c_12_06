@@ -2,9 +2,9 @@
 
 int main() {
 
-//    char string[6] = {'H', 'e', 'l', 'l', 'o', '\0'};
+    char string[6] = {'H', 'e', 'l', 'l', 'o', '\0'};
 //    char string[6] = "Hello";
-    char string[] = "Hello";
+//    char string[] = "Hello";
     char string2[] = "World";
     
     printf("%s\n", string);
