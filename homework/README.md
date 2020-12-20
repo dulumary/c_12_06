@@ -1,5 +1,9 @@
 # 과제
 
+## Day 3 (2020-12-20) 
+
+* [1 - 4](../02_Pointer/test/test02/README.md)
+
 ## Day 2 (2020-12-13) 
 
 * [4](../01_String/test/test02/README.md)
