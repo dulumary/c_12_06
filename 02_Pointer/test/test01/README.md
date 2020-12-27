@@ -38,7 +38,7 @@ int number2 = 45;
 
 ```
 number1 의 값 : 15 
-number2 의 값 : 54 
+number2 의 값 : 45 
 ```
 
 
