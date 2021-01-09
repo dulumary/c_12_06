@@ -1,5 +1,9 @@
 # 과제
 
+## Day 6 (2021-01-10) 
+
+* [1 - 5](../03_Pointer2/test/test02/README.md)
+* [1 - 4](../03_Pointer2/test/test03/README.md)
 
 ## Day 5 (2021-01-03) 
 
