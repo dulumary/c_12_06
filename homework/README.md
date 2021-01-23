@@ -1,5 +1,10 @@
 # 과제
 
+## Day 8 (2021-01-24) 
+
+* [1 - 5](../04_malloc/test/test01/README.md)
+* [1 - 3](../04_malloc/test/test02/README.md)
+
 ## Day 7 (2021-01-17) 
 
 * [1 - 5](../03_Pointer2/test/test02/README.md)
