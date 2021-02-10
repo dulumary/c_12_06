@@ -1,6 +1,6 @@
 ## 문제) - Stack 활용2
 
-### 2. reverse string
+### 1. reverse string
 
 * 문자열을 입력 받고, stack을 이용해서 역순으로 출력 하세요. 
 * stack 함수를 구현해서 함수를 이용해서 문제를 해결하세요. 
